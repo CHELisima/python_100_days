@@ -1,3 +1,9 @@
+# to save to github use these commands
+# git add .
+# git commit -m "added day 1 file"
+# git push
+
+
 # this code will print bye 
 # print("bye")
 
