@@ -58,3 +58,15 @@
 
 
 # excercise 4 - Variables
+# vafriables are assigned inputs here
+# a = input("a:")
+# b = input("b:")
+
+# used a 3rd variable to empty function in variable a 
+# c = a
+# a = b
+# b = c
+
+# 
+# print("a = " + a)
+# print("b = " + b)
