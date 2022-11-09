@@ -15,6 +15,18 @@
 # print("The function is declared like this:")
 # print("print('what to print')")
 
+# print("Hello world!\nHello world!")
+# print('print("what to print")')
+
+# This code will print HelloChelsea
+# print("Hello" + "Chelsea")
+# This code has a space after Hello which will print Hello Chelsea
+# print("Hello " + "Chelsea")
+# This has a space before Chelea which prints Hello Chelsea
+# print("Hello" + " Chelsea")
+# This code adds a seperate string for the space
+# print("Hello" + " " + "Chelsea")
+
 
 # exercise 2 debugging
 # print("Day 1 - String Manipulation")
@@ -31,3 +43,5 @@
 # notes 
 # inside print() space then len()
 # inside len() space then input("") space before the closing ") and other clsoing )
+
+# excercise 4 - Variables
