@@ -37,11 +37,13 @@
 
 
 # exercise 3 - Input Function
-# this code will print the input and once you respond, it will print the coresponding integer 
-# print( len( input("What is your name? ") ) )
+# this code will print the prompt for the user to respond
+# input("What is your name?")
+# inserting the input function in to the print function will run the program to respond Hello Chelsea
+# print("Hello " + input("What is your name?") )
 
 # notes 
-# inside print() space then len()
-# inside len() space then input("") space before the closing ") and other clsoing )
+# use thonny.org application to break down the code to understand
+
 
 # excercise 4 - Variables
