@@ -49,5 +49,12 @@
 # notes 
 # use thonny.org application to break down the code to understand
 
+# the function is assigned to a variable
+# name = input("What is your name?")
+# the length function being variable name for short is assigned to this variable
+# Length = len(name)
+# this code will print whatever function is assigned to the variable in ()
+# print(Length)
+
 
 # excercise 4 - Variables
