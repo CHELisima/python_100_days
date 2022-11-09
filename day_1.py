@@ -41,7 +41,9 @@
 # input("What is your name?")
 # inserting the input function in to the print function will run the program to respond Hello Chelsea
 # print("Hello " + input("What is your name?") )
-# (len) tells it to print the length of the name input to the prompt
+
+# len() tells it to print the length of the name input to the prompt
+# this code has 3 functions
 # print( len( input("What is your name?")))
 
 # notes 
