@@ -86,3 +86,58 @@
 #5. Make sure the input cursor shows on a new line:
 
 # Solution: https://replit.com/@appbrewery/band-name-generator-end
+
+
+# Data Types
+
+# String
+
+# subscripting
+# subscripting in this code will print letter that the number represents
+# print("Hello"[0])
+# print("Hello"[4])
+
+# Integer
+# whole numbers in code
+
+# this code will add the numbers
+# print(123 + 345)
+
+# Float
+# floating point number
+# numbers with decimals data type
+# 3.14159
+
+# Boolean
+
+True
+False
+# this code gives an integer
+# num_char = len(input("What is your name?"))
+# this code breaks becasue the string does not have all the same data type
+# print("Your name has " + num_char + " characters.")
+
+# the type function will tell me the data type im using
+# print(type(num_char))
+
+# type conversion- to convert a data type
+# new_num(_char = str(num_char)
+# print("Your name has " + new_num_char + " characters.")
+
+# this gives the int data type
+# a = 123
+# print(type(a))
+
+# this gives the str data type
+# a = str(123)
+# print(type(a))
+
+# this gives the float data type
+# a = float(123)
+# print(type(a))
+
+# used the float function to convert
+# print(70 + float("100.5"))
+
+# used the str funtion to convert
+# print(str(70)+str(100))
