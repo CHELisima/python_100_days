@@ -58,15 +58,15 @@
 
 
 # excercise 4 - Variables
-# vafriables are assigned inputs here
+# variables are assigned inputs here
 # a = input("a:")
 # b = input("b:")
 
-# used a 3rd variable to empty function in variable a 
+# used a 3rd variable to hold the first variables value (a) 
 # c = a
 # a = b
 # b = c
 
-# 
+# using print function to output the results using concatenation
 # print("a = " + a)
 # print("b = " + b)
