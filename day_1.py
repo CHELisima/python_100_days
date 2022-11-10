@@ -70,3 +70,19 @@
 # using print function to output the results using concatenation
 # print("a = " + a)
 # print("b = " + b)
+
+
+# Day 1 Project - Band Name Generator
+
+#1. Create a greeting for your program.
+# print("Let's come up with a name for your band!")
+#2. Ask the user for the city that they grew up in.
+# gave a name to hold the value the user answers with \n at the end to allow the user to input on the next line
+# city = input("Which city did you grow up in?\n")
+#3. Ask the user for the name of a pet.
+# pet = input("What is the name of your pet?\n" ) 
+#4. Combine the name of their city and pet and show them their band name.
+# print("Your band name is " + city + " " + pet)
+#5. Make sure the input cursor shows on a new line:
+
+# Solution: https://replit.com/@appbrewery/band-name-generator-end
